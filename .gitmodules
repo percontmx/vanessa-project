@@ -1,0 +1,3 @@
+[submodule "control-panel"]
+	path = vanessa-control-panel
+	url = https://github.com/percontmx/vanessa-control-panel.git
