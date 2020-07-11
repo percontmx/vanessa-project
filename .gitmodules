@@ -1,3 +1,12 @@
+[submodule "chatbot"]
+	path = chatbot
+	url = https://github.com/percontmx/vanessa-chatbot.git
+	branch = master
 [submodule "control-panel"]
-	path = vanessa-control-panel
+	path = control-panel
 	url = https://github.com/percontmx/vanessa-control-panel.git
+	branch = master
+[submodule "backend"]
+	path = backend
+	url = https://github.com/percontmx/vanessa-backend.git
+	branch = master
